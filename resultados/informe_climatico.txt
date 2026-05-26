@@ -1,0 +1,5 @@
+=== REPORTE CLIMÁTICO GENERAL ===
+Registros válidos analizados: 354
+Temperatura Máxima Promedio: 22.96°C
+Temperatura Mínima Promedio: 13.85°C
+Precipitación Total Acumulada: 33808.40 mm
