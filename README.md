@@ -32,3 +32,6 @@ python scripts/analisis_clima.py
 
 **Paso 4: Revisar los resultados**
 Se genera un archivo tipo txt y un grafico simple
+
+# Codigo revisado por QA
+Se verifico la estructura de carpetas, codigo, comentarios, funcionamiento del mismo, resultados esperados.
